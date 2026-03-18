@@ -1221,7 +1221,7 @@ $overviewNote = 'Frequency shows historical occurrence within the selected windo
 
 table.skai-table{
   width:100%;
-  min-width:500px;
+  min-width:320px;
   border-collapse:separate;
   border-spacing:0;
   background:#fff;
@@ -1236,10 +1236,10 @@ table.skai-table thead th{
   z-index:1;
   background:var(--grad-horizon);
   color:#fff;
-  padding:12px 10px;
-  font-size:12px;
+  padding:8px 6px;
+  font-size:11px;
   line-height:1.2;
-  letter-spacing:.10em;
+  letter-spacing:.04em;
   text-transform:uppercase;
   font-weight:850;
   text-align:center;
@@ -1247,7 +1247,7 @@ table.skai-table thead th{
 }
 
 table.skai-table tbody td{
-  padding:11px 10px;
+  padding:9px 7px;
   text-align:center;
   border-bottom:1px solid rgba(10,26,51,.06);
   font-size:14px;
